@@ -1,0 +1,14 @@
+El objetivo de la prueba es:
+
+0) Convertir la página web en un servicio de Node. Utiliza el puerto 3000 como salida.
+
+1) Subir correctamente el proyecto a GITHUB, incluyendo los archivos Dockerfile y .dockerignore. Adjunta el enlace.
+
+2) Crear una imagen y un contenedor del proyecto con Docker. El contenedor debe utilizar el puerto 4000 como salida.
+
+3) Subir correctamente el proyecto a DockerHub. Adjunta el enlace.
+
+4) Desplegar el proyecto en render.com. Adjunta el enlace.
+
+No te olvides de incluir las capturas de pantalla de cada paso, con sus correspondientes explicaciones y los enlaces a cada sitio. 
+Las explicaciones han de ser suficientes para poder reproducir todo lo necesario hasta llegar al resultado final.

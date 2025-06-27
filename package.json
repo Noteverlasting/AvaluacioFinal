@@ -1,0 +1,30 @@
+{
+  "name": "memorygame",
+  "version": "1.0.0",
+  "description": "Evaluacion Final MF0493",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noteverlasting/AvaluacioFinal.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "github",
+    "docker",
+    "app",
+    "javascript"
+  ],
+  "author": "Omar Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noteverlasting/AvaluacioFinal/issues"
+  },
+  "homepage": "https://github.com/Noteverlasting/AvaluacioFinal#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
